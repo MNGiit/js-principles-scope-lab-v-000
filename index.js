@@ -3,7 +3,7 @@
 customerName = "Bob";
 
 function upperCaseCustomerName(name) {
-  return name.
+  return 
 }
 
 upperCaseCustomerName()
